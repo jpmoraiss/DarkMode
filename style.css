@@ -1,0 +1,44 @@
+div {
+    text-align: center;
+    border-radius: 7px;
+    font-family: Verdana, sans-serif;
+    margin-bottom: 5px;
+}
+
+.theme {
+    background-color: ghostWhite;
+    height: 30px;
+}
+
+.icon {
+    background-color: ghostWhite;    
+}
+
+.options {
+    background-color: ghostWhite;
+    height: 70px;
+}
+
+button {
+    border-radius: 5px;
+    border: none;
+    justify-content: space-between;
+}
+
+body {
+    background-color: #fdd8d8;
+}
+
+.dark {
+    background-color: darkSlateBlue;
+
+}
+
+.light {
+    background-color: ghostWhite;
+
+}
+
+.ninja {
+    background-color: dimGray;
+}
